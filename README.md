@@ -184,7 +184,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **SiteQ8** - Cybersecurity Professional from Kuwait
 
 - GitHub: [@siteq8](https://github.com/siteq8)
-- LinkedIn: [SiteQ8 Profile](https://www.linkedin.com/in/siteq8/)
+- LinkedIn: [SiteQ8 Profile](https://www.linkedin.com/in/alenizi/)
 - Focus: Cybersecurity Leadership, Compliance Frameworks, Security Education
 
 ## 🙏 Acknowledgments
@@ -230,7 +230,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 For questions, feedback, or collaboration:
 - Open an issue on GitHub
 - Contact via LinkedIn
-- Email: [Educational Tool Support]
+- Email: site@hotmail.com
 
 ## ⭐ Star This Repository
 
