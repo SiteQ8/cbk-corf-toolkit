@@ -6,7 +6,7 @@
 
 > **Educational Web-Based Tool for Central Bank of Kuwait Cyber and Operational Resilience Framework (CORF) Compliance Assessment**
 
-## 🎯 Overview
+## Overview
 
 The **CBK CORF Assessment Toolkit** is a comprehensive, bilingual (English/Arabic) web application designed to help financial institutions in Kuwait understand, assess, and prepare for compliance with the Central Bank of Kuwait's **Cyber and Operational Resilience Framework (CORF)** issued in December 2025.
 
@@ -16,43 +16,43 @@ This tool provides:
 - **Self-Assessment**: Quick maturity evaluation across all baseline domains
 - **Resources Hub**: Links to official documentation and guidance materials
 
-## 🚀 Features
+## Features
 
-### 📊 Three Comprehensive Baselines
+### Three Comprehensive Baselines
 
 1. **Cyber Resilience Baseline** - 519 controls across 6 domains
 2. **Operational Resilience Baseline** - 146 controls across 8 domains  
 3. **Third-Party Risk Management Baseline** - 211 controls across 13 domains
 
-### 🌍 Bilingual Support
+### Bilingual Support
 
 - **English** and **Arabic** interface
 - Seamless language switching
 - RTL support for Arabic content
 - Localized content for Kuwait's financial sector
 
-### 🔍 Interactive Self-Assessment
+### Interactive Self-Assessment
 
 - Risk-based questionnaires for each baseline
 - Automated maturity scoring (Levels 1-5)
 - Personalized recommendations
 - Instant results with actionable insights
 
-### 📱 Modern Responsive Design
+### Modern Responsive Design
 
 - Mobile-first responsive layout
 - Professional gradient design system
 - Smooth animations and transitions
 - Accessible and user-friendly interface
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: Pure HTML5, CSS3, JavaScript (Vanilla)
 - **Design**: Custom CSS with CSS Variables
 - **Architecture**: Single-page application (SPA)
 - **Compatibility**: All modern browsers (Chrome, Firefox, Safari, Edge)
 
-## 📥 Installation
+## Installation
 
 ### Option 1: Direct Usage (Recommended)
 
@@ -81,7 +81,7 @@ php -S localhost:8000
 
 Then open `http://localhost:8000` in your browser.
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### 1. Framework Overview
 - Navigate to the **Overview** tab
@@ -110,7 +110,7 @@ Then open `http://localhost:8000` in your browser.
 - Access official CBK CORF documentation
 - Explore related regulatory guidance
 
-## 🏦 Target Audience
+## Target Audience
 
 This tool is designed for:
 - **Banks** (Local and Foreign branches)
@@ -122,7 +122,7 @@ This tool is designed for:
 - **Compliance Officers**
 - **Board Members and Senior Management**
 
-## ⚠️ Important Disclaimer
+## Important Disclaimer
 
 **This is an educational tool for informational purposes only.** 
 
@@ -134,7 +134,7 @@ This tool is designed for:
 
 **For official compliance:** Engage CBK-approved third-party assessors and consult official CBK guidance.
 
-## 📋 CORF Framework Summary
+## CORF Framework Summary
 
 ### Framework Scope
 - **Total Controls**: 876
@@ -150,13 +150,13 @@ This tool is designed for:
 - Incident response and crisis management
 - Regular testing and validation
 
-## 🔗 Official Resources
+## Official Resources
 
 - [CBK CORF Official Document](https://www.cbk.gov.kw/en/images/corf-170113_v10_tcm10-170113.pdf)
 - [Central Bank of Kuwait](https://www.cbk.gov.kw/)
 - [NCSC Kuwait](https://www.citra.gov.kw/en/Pages/NCSC.aspx)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! This is an open educational project.
 
@@ -175,11 +175,11 @@ Contributions are welcome! This is an open educational project.
 - Translation improvements
 - Accessibility enhancements
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## Author
 
 **SiteQ8** - Cybersecurity Professional from Kuwait
 
@@ -187,14 +187,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - LinkedIn: [SiteQ8 Profile](https://www.linkedin.com/in/alenizi/)
 - Focus: Cybersecurity Leadership, Compliance Frameworks, Security Education
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-- Central Bank of Kuwait for publishing comprehensive CORF framework
+- Central Bank of Kuwait for publishing CORF framework
 - Kuwait's financial sector cybersecurity community
 - SANS Institute for security leadership training
 - Open source community for inspiration
 
-## 📊 Project Statistics
+## Project Statistics
 
 - **Lines of Code**: ~1,500+
 - **Languages**: HTML, CSS, JavaScript
@@ -202,7 +202,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Assessment Questions**: 30 (10 per baseline)
 - **Controls Covered**: 876 CORF controls
 
-## 🗺️ Roadmap
+## Roadmap
 
 ### Version 1.0 (Current)
 - ✅ Complete framework overview
@@ -212,33 +212,25 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - ✅ Responsive design
 
 ### Version 1.1 (Planned)
-- 📋 Detailed gap analysis templates
-- 📊 Export results to PDF
-- 📈 Progress tracking over time
-- 🎓 Implementation guides
-- 🔧 Control mapping tools
+- Detailed gap analysis templates
+- Export results to PDF
+- Progress tracking over time
+- Implementation guides
+- Control mapping tools
 
 ### Version 2.0 (Future)
-- 🤖 AI-powered recommendations
-- 📱 Mobile app version
-- 🔐 Secure cloud-based assessments
-- 👥 Multi-user collaboration
-- 📊 Advanced analytics dashboard
+- AI-powered recommendations
+- Mobile app version
+- Secure cloud-based assessments
+- Multi-user collaboration
+- Advanced analytics dashboard
 
-## 📞 Support & Contact
+## Support & Contact
 
 For questions, feedback, or collaboration:
 - Open an issue on GitHub
 - Contact via LinkedIn
 - Email: site@hotmail.com
-
-## ⭐ Star This Repository
-
-If you find this tool helpful, please consider:
-- ⭐ **Starring** the repository
-- 🔄 **Sharing** with your network
-- 📢 **Contributing** improvements
-- 💬 **Providing** feedback
 
 ---
 
